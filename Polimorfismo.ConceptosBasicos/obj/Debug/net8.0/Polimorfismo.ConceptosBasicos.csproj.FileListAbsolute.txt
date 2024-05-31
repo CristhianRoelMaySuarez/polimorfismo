@@ -1,0 +1,14 @@
+C:\Users\rodri\source\repos\Poo\Polimorfismo\Polimorfismo.ConceptosBasicos\bin\Debug\net8.0\Polimorfismo.ConceptosBasicos.exe
+C:\Users\rodri\source\repos\Poo\Polimorfismo\Polimorfismo.ConceptosBasicos\bin\Debug\net8.0\Polimorfismo.ConceptosBasicos.deps.json
+C:\Users\rodri\source\repos\Poo\Polimorfismo\Polimorfismo.ConceptosBasicos\bin\Debug\net8.0\Polimorfismo.ConceptosBasicos.runtimeconfig.json
+C:\Users\rodri\source\repos\Poo\Polimorfismo\Polimorfismo.ConceptosBasicos\bin\Debug\net8.0\Polimorfismo.ConceptosBasicos.dll
+C:\Users\rodri\source\repos\Poo\Polimorfismo\Polimorfismo.ConceptosBasicos\bin\Debug\net8.0\Polimorfismo.ConceptosBasicos.pdb
+C:\Users\rodri\source\repos\Poo\Polimorfismo\Polimorfismo.ConceptosBasicos\obj\Debug\net8.0\Polimorfismo.ConceptosBasicos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rodri\source\repos\Poo\Polimorfismo\Polimorfismo.ConceptosBasicos\obj\Debug\net8.0\Polimorfismo.ConceptosBasicos.AssemblyInfoInputs.cache
+C:\Users\rodri\source\repos\Poo\Polimorfismo\Polimorfismo.ConceptosBasicos\obj\Debug\net8.0\Polimorfismo.ConceptosBasicos.AssemblyInfo.cs
+C:\Users\rodri\source\repos\Poo\Polimorfismo\Polimorfismo.ConceptosBasicos\obj\Debug\net8.0\Polimorfismo.ConceptosBasicos.csproj.CoreCompileInputs.cache
+C:\Users\rodri\source\repos\Poo\Polimorfismo\Polimorfismo.ConceptosBasicos\obj\Debug\net8.0\Polimorfismo.ConceptosBasicos.dll
+C:\Users\rodri\source\repos\Poo\Polimorfismo\Polimorfismo.ConceptosBasicos\obj\Debug\net8.0\refint\Polimorfismo.ConceptosBasicos.dll
+C:\Users\rodri\source\repos\Poo\Polimorfismo\Polimorfismo.ConceptosBasicos\obj\Debug\net8.0\Polimorfismo.ConceptosBasicos.pdb
+C:\Users\rodri\source\repos\Poo\Polimorfismo\Polimorfismo.ConceptosBasicos\obj\Debug\net8.0\Polimorfismo.ConceptosBasicos.genruntimeconfig.cache
+C:\Users\rodri\source\repos\Poo\Polimorfismo\Polimorfismo.ConceptosBasicos\obj\Debug\net8.0\ref\Polimorfismo.ConceptosBasicos.dll
